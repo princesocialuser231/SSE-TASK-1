@@ -2,6 +2,6 @@
 
 int main() {
     std::cout<<"Hello World\n";
-    std:: cout<<"after dtu first class edited note";
+    std:: cout<<"Let's learn something";
     return 0;
 }
