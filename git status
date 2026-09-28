@@ -1,0 +1,71 @@
+[33mcommit 93a20de45c0db93500b2ebb43e00f885167691eb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Sun Sep 27 15:11:20 2026 +0530
+
+    Base setup for linear SB
+
+[33mcommit b2ec8c6e6997f4c7550aa5fea7aa91f43cfa59b9[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Fri Sep 25 21:42:55 2026 +0530
+
+    2d arrays and fn call
+
+[33mcommit 8ff3b279c46cdf700a7b87824b72744b1d9d5dca[m
+Merge: dfbbdd8 142df28
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Thu Sep 24 19:31:46 2026 +0530
+
+    Merge branch 'main' of https://github.com/princesocialuser231/SSE-TASK-1
+
+[33mcommit dfbbdd82fc48600566f49a6b5a06ab9cd41fa47b[m
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Thu Sep 24 19:30:57 2026 +0530
+
+    arrays basic added
+
+[33mcommit 142df285d7bc1030892bfde2710d3f2dbc87fd78[m
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Sat Sep 19 09:04:49 2026 +0530
+
+    Update README with Git and GitHub learning resources
+    
+    Added resources for learning Git and GitHub basics.
+
+[33mcommit f918223a18fa6c7de60390839c343cff7655f830[m
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Sat Sep 19 09:03:40 2026 +0530
+
+    Update README with GitHub learning resources
+    
+    Added a section on GitHub basics and contributions.
+
+[33mcommit 909a130518f7e54fdc6496666a75d1715f57e26e[m
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Fri Sep 18 23:14:03 2026 +0530
+
+    cout stat changed
+
+[33mcommit 6d9039b9ec97278919f961e1448708788bbaf86f[m
+Merge: ad98992 6a6626a
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Fri Sep 18 23:03:01 2026 +0530
+
+    Merge 'main' of https://github.com/princesocialuser231/SSE-TASK-1
+
+[33mcommit ad989922f0eecd36a35dc1ef2a3da32a2cefedd3[m
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Fri Sep 18 22:50:48 2026 +0530
+
+    Added c++ basics part 1
+
+[33mcommit 6a6626ad1217f2192d0383a9a0e5fb4c34f902c9[m
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Fri Sep 18 16:42:38 2026 +0000
+
+    add Readme
+
+[33mcommit 6e440a9a62bc6179e8f5cc594d3c2766348d063b[m
+Author: princesocialuser231 <princesocialuser231@gmail.com>
+Date:   Fri Sep 18 22:10:56 2026 +0530
+
+    Initial commit
