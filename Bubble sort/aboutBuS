@@ -1,0 +1,13 @@
+Bubble Sort is a sorting algorithm that arranges elements in order by repeatedly comparing two adjacent elements.
+
+For ascending order:
+
+If the left element is greater than the right element → swap them.
+ex-
+5  2  8  1
+↑  ↑
+5 > 2 → swap
+
+After swapping:
+
+2  5  8  1
